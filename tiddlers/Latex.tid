@@ -1,0 +1,41 @@
+created: 20221125163710435
+modified: 20221125165538545
+tags: 编程
+title: Latex
+type: text/vnd.tiddlywiki
+
+运算符
+
+	- 点\cdot
+	- 乘号\times
+
+字母
+
+	- \varepsilon
+
+希腊字母表
+
+* α	Alpha
+* β	Beta
+* γ	Gamma
+* δ	Delta
+* ε	Epsilon
+* ζ	Zeta
+* ν	Nu
+* ξ	Xi
+* ο	Omicron
+* π	Pi
+* ρ	Rho
+* σ	Sigma
+* η	Eta
+* θ	Theta
+* ι	Iota
+* κ	Kappa
+* λ	Lambada
+* μ	Mu
+* τ	Tau
+* υ	Upsilon
+* φ	Phi
+* χ	Chi
+* ψ	Psi
+* ω	Omega

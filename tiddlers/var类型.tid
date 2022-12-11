@@ -1,0 +1,7 @@
+created: 20221125170340049
+modified: 20221125170529165
+tags: 编程概念
+title: var类型
+type: text/vnd.tiddlywiki
+
+Java局部变量类型推断（LVTI），简称 var 类型（标识符 var 不是一个关键字，是一个预留类型名），Java 10中通过 JEP 286: Local-Variable Type Inference 添加进来。 作为100%编译特征，它不会影响字节码，运行时或者性能。 在编译时，编译器会检查赋值语句右侧代码，从而推断出具体类型。
