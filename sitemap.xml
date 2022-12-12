@@ -139,6 +139,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:健康之路</loc>
+		<lastmod>2022-12-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:关于数据安全</loc>
 		<lastmod>2022-12-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -279,6 +285,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:路上杂感</loc>
 		<lastmod>2022-12-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:轻断食</loc>
+		<lastmod>2022-12-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
