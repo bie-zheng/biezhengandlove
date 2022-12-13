@@ -247,12 +247,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:新条目</loc>
-		<lastmod>2022-12-13</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://onetwo.ren/wiki/#:时间中的笔记</loc>
 		<lastmod>2022-12-09</lastmod>
 		<changefreq>monthly</changefreq>
