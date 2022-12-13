@@ -1,0 +1,15 @@
+created: 20221213064519486
+creator: 别正
+modified: 20221213070630040
+modifier: 别正
+tags: Latex
+title: ceshi
+type: text/vnd.tiddlywiki
+
+<$mermaid text="
+        graph LR
+            A-->B
+            B-->C
+            C-->A
+            D-->C
+"><$mermaid>
