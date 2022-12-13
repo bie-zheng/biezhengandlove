@@ -151,7 +151,25 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:偏振片</loc>
+		<lastmod>2022-12-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:健康之路</loc>
+		<lastmod>2022-12-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:光学</loc>
+		<lastmod>2022-12-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:光的横波性</loc>
 		<lastmod>2022-12-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -241,6 +259,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:物理</loc>
+		<lastmod>2022-12-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:相约星期二</loc>
 		<lastmod>2022-12-04</lastmod>
 		<changefreq>monthly</changefreq>
@@ -273,6 +297,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:自我传播的可能性</loc>
 		<lastmod>2022-12-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:自然光，线偏振光，部分偏振光，圆偏振光，椭圆偏振光</loc>
+		<lastmod>2022-12-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
