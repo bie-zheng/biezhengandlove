@@ -109,6 +109,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:tiddlerToStoreData</loc>
+		<lastmod>2022-12-13</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:TiddlyWikiIconBlack.png</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -237,6 +243,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:强类型语言</loc>
 		<lastmod>2022-11-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:新条目</loc>
+		<lastmod>2022-12-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
