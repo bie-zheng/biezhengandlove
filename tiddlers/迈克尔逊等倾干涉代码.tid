@@ -1,0 +1,31 @@
+created: 20221219042602207
+creator: 别正
+modified: 20221219042934382
+modifier: 别正
+tags: matlab
+title: 迈克尔逊等倾干涉代码
+type: text/vnd.tiddlywiki
+
+```matlab
+Lambda = input('输入光的波长（单位为nm）：');
+Lambda = Lambda * 1e-9; 
+d = input('输入M1和M2’之间的距离（单位为mm）：');
+d = d * 1e-3 ; 
+f = 0.1; %透镜的焦距：m
+I0 = 1;
+Screen_length = 0.015;                  %定义干涉仿真范围：m
+[Screen_x,Screen_y] = meshgrid(linspace(-Screen_length,Screen_length,800));
+interference_r = abs(Screen_x + 1i*Screen_y);
+I_delta = (2*pi*d/Lambda).*cos(atan(interference_r./f));
+I = 2*I0*(cos(I_delta)).^2;
+I = I./max(max(I));                      %光强分布归一化
+I = I*64;                                %光强归一,扩大显示
+image(Screen_x(1,:),Screen_y(:,1),I);    %设置x和y的像素，显示数值
+colormap hot ;                           %也可以采用grey
+colorbar;
+xlabel('空间坐标x'),ylabel('空间坐标y');
+title('迈克尔逊等倾干涉光强空间分布');
+```
+不是我写的
+
+[[光学]]部分
