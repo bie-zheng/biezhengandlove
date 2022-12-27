@@ -85,6 +85,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;新条目&apos;%2520by%2520别正</loc>
+		<lastmod>2022-12-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -243,12 +249,6 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:地气</loc>
 		<lastmod>2022-12-09</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://onetwo.ren/wiki/#:学习认知</loc>
-		<lastmod>2022-12-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
