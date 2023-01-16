@@ -205,6 +205,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:化简方程</loc>
+		<lastmod>2023-01-15</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:博客文章</loc>
 		<lastmod>2022-11-25</lastmod>
 		<changefreq>monthly</changefreq>
@@ -266,7 +272,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:新闻</loc>
-		<lastmod>2022-12-25</lastmod>
+		<lastmod>2023-01-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -410,7 +416,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:迈克尔逊等倾干涉代码</loc>
-		<lastmod>2022-12-19</lastmod>
+		<lastmod>2023-01-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
