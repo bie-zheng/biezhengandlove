@@ -1,0 +1,20 @@
+created: 20230115110759626
+creator: 别正
+modified: 20230115111015530
+modifier: 别正
+tags: matlab
+title: 化简方程
+type: text/vnd.tiddlywiki
+
+```matlab
+syms x  声明x是一个变量，一个未知数
+y1=(sin(x)/x)^2+4*(sin(2*x)/(2*x))^2-2*2*(sin(x)/x)*(sin(2*x)/(2*x))*cos(pi()-6*x);
+z1=simplify(y1/(sin(x)^2/x^2))  化简函数
+y2=(sin(x)/x)^2*(3+2*(cos(2*x)+cos(5*x)+cos(7*x)));
+z2=simplify(y2/(sin(x)^2/x^2))
+if z1==z2
+   a=1
+else
+   a=0
+end
+```
