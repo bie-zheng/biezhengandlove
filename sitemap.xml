@@ -25,6 +25,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:2023新年</loc>
+		<lastmod>2023-01-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:3-记忆</loc>
 		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -278,6 +284,18 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:学习认知</loc>
 		<lastmod>2022-12-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:定性与半定量物理学</loc>
+		<lastmod>2023-01-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:对称性</loc>
+		<lastmod>2023-01-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
