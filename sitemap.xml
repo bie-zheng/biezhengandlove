@@ -91,6 +91,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:git</loc>
+		<lastmod>2023-01-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:git怎么删除库</loc>
+		<lastmod>2023-01-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Latex</loc>
 		<lastmod>2022-12-12</lastmod>
 		<changefreq>monthly</changefreq>
@@ -99,6 +111,11 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:matlab</loc>
 		<lastmod>2022-12-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Pasted%2520image%252020230113173942.png</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -241,6 +258,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:喝水</loc>
+		<lastmod>2023-01-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:回安信一</loc>
 		<lastmod>2022-12-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -345,6 +368,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:相约星期二</loc>
 		<lastmod>2022-12-04</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:睡眠</loc>
+		<lastmod>2023-01-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
