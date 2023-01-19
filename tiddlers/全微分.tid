@@ -1,0 +1,9 @@
+created: 20230118125754761
+modified: 20230118130440603
+tags: 数学
+title: 全微分
+type: text/vnd.tiddlywiki
+
+$$d z=\frac{\partial z}{\partial x} \Delta x+\frac{\partial z}{\partial y} \Delta y$$
+
+当dz为δz（变分）的时候，Δ变成δ
