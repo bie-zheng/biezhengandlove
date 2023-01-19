@@ -85,18 +85,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:ceshi</loc>
-		<lastmod>2022-12-13</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;新条目&apos;%2520by%2520别正</loc>
-		<lastmod>2023-01-18</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://onetwo.ren/wiki/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -127,7 +115,19 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:mermaid</loc>
+		<lastmod>2023-01-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Pasted%2520image%252020230113173942.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:python</loc>
+		<lastmod>2023-01-18</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -152,6 +152,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:tiddlerToStoreData</loc>
 		<lastmod>2022-12-13</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:tiddlywiki</loc>
+		<lastmod>2023-01-18</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -198,8 +204,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:人文社科</loc>
+		<lastmod>2023-01-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:传播学</loc>
-		<lastmod>2022-11-26</lastmod>
+		<lastmod>2023-01-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -211,7 +223,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:健康之路</loc>
-		<lastmod>2022-12-12</lastmod>
+		<lastmod>2023-01-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -224,6 +236,18 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:光的横波性</loc>
 		<lastmod>2022-12-13</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:全微分</loc>
+		<lastmod>2023-01-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:公众的分类</loc>
+		<lastmod>2023-01-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -253,7 +277,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:古文</loc>
-		<lastmod>2022-11-30</lastmod>
+		<lastmod>2023-01-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -318,6 +342,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:数学</loc>
+		<lastmod>2023-01-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:数学物理</loc>
+		<lastmod>2023-01-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:新闻</loc>
 		<lastmod>2023-01-15</lastmod>
 		<changefreq>monthly</changefreq>
@@ -360,12 +396,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:沙海拾贝</loc>
-		<lastmod>2022-12-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://onetwo.ren/wiki/#:波晶片</loc>
 		<lastmod>2022-12-13</lastmod>
 		<changefreq>monthly</changefreq>
@@ -385,7 +415,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:物理</loc>
-		<lastmod>2022-12-12</lastmod>
+		<lastmod>2023-01-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -409,7 +439,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:编程</loc>
-		<lastmod>2022-12-19</lastmod>
+		<lastmod>2023-01-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -432,14 +462,32 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:舆论学</loc>
+		<lastmod>2023-01-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:舆论的定义</loc>
+		<lastmod>2023-01-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:虚构花园</loc>
 		<lastmod>2022-11-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:读书笔记</loc>
+		<loc>https://onetwo.ren/wiki/#:解考试题目</loc>
 		<lastmod>2023-01-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:读书笔记</loc>
+		<lastmod>2023-01-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -470,6 +518,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:迈克尔逊等倾干涉代码</loc>
 		<lastmod>2023-01-15</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:运动</loc>
+		<lastmod>2023-01-18</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
