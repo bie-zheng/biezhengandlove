@@ -192,6 +192,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:一些资料</loc>
+		<lastmod>2023-01-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:为什么我不用白板</loc>
 		<lastmod>2022-12-10</lastmod>
 		<changefreq>monthly</changefreq>
@@ -391,7 +397,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:汉英对比与英语学习</loc>
-		<lastmod>2023-01-18</lastmod>
+		<lastmod>2023-01-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
