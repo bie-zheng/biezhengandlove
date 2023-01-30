@@ -1,0 +1,10 @@
+created: 20230126115925775
+modified: 20230126120221819
+tags: $:/tags/SideBar
+title: 英语例句
+type: text/vnd.tiddlywiki
+
+<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title="" text="""""" tags="? 英语语料库" />
+	添加新想法
+	</$button>
