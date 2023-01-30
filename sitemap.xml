@@ -31,6 +31,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:2023年01月30日</loc>
+		<lastmod>2023-01-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:2023新年</loc>
 		<lastmod>2023-01-16</lastmod>
 		<changefreq>monthly</changefreq>
@@ -157,7 +163,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:TableOfContents</loc>
-		<lastmod>2022-12-12</lastmod>
+		<lastmod>2023-01-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -277,7 +283,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:公众的分类</loc>
-		<lastmod>2023-01-19</lastmod>
+		<lastmod>2023-01-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -338,6 +344,18 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:地气</loc>
 		<lastmod>2022-12-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:外语</loc>
+		<lastmod>2023-01-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:奇怪的想法</loc>
+		<lastmod>2023-01-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -432,6 +450,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:时间管理</loc>
+		<lastmod>2023-01-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:朋友是……</loc>
 		<lastmod>2022-12-07</lastmod>
 		<changefreq>monthly</changefreq>
@@ -463,7 +487,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:汉英对比与英语学习</loc>
-		<lastmod>2023-01-24</lastmod>
+		<lastmod>2023-01-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -516,6 +540,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:科技？</loc>
+		<lastmod>2023-01-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:纸质笔记</loc>
 		<lastmod>2022-12-09</lastmod>
 		<changefreq>monthly</changefreq>
@@ -553,7 +583,13 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:舆论的定义</loc>
-		<lastmod>2023-01-19</lastmod>
+		<lastmod>2023-01-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:英语例句</loc>
+		<lastmod>2023-01-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -571,7 +607,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:读书笔记</loc>
-		<lastmod>2023-01-19</lastmod>
+		<lastmod>2023-01-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -590,6 +626,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:路上杂感</loc>
 		<lastmod>2022-12-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:软件推荐</loc>
+		<lastmod>2023-01-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
