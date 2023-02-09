@@ -498,6 +498,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:光头强唱的摇滚（不是我写的）</loc>
+		<lastmod>2023-02-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:光学</loc>
 		<lastmod>2022-12-12</lastmod>
 		<changefreq>monthly</changefreq>
@@ -798,6 +804,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:番剧</loc>
+		<lastmod>2023-02-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:相约星期二</loc>
 		<lastmod>2022-12-04</lastmod>
 		<changefreq>monthly</changefreq>
@@ -818,6 +830,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:矩阵乘法</loc>
 		<lastmod>2023-02-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:私人性质</loc>
+		<lastmod>2023-02-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
