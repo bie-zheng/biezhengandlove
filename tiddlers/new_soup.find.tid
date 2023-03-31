@@ -1,0 +1,11 @@
+created: 20230331144508165
+modified: 20230331144508165
+tags: 爬虫
+title: new_soup.find
+type: text/vnd.tiddlywiki
+
+new_soup.find("div", {"class": "main-content"}).text
+
+这行代码是 Beautiful Soup 库中的方法，用于在 HTML 或 XML 文档中查找指定标签和属性的内容。在这里，它会查找标签名为 "div"，属性名为 "class"，属性值为 "main-content" 的标签，并返回该标签中的文本内容。换言之，它会提取出 HTML 文档中 class 属性为 "main-content" 的 div 标签中的文本内容。
+
+[[html的标签，属性]]

@@ -1,0 +1,17 @@
+created: 20230331144508171
+modified: 20230331144508171
+tags: 爬虫
+title: XPath表达式
+type: text/vnd.tiddlywiki
+
+XPath是一种用于在XML文档中定位元素和属性的语言。XPath表达式是一种简单的方式，用于在XML文档中选择节点或节点集合。以下是一些XPath表达式的示例：
+
+*. 选择所有元素：`//*`
+*. 选择根元素：`/`
+*. 选择元素的子元素：`/element/child`
+*. 选择元素的属性：`/@attribute`
+*. 选择元素的文本内容：`/element/text()`
+*. 选择元素的所有子元素和文本：`/element/node()`
+*. 选择元素的第一个子元素：`/element/child[1]`
+*. 选择元素的最后一个子元素：`/element/child[last()]`
+*. 选择元素的特定属性：`/element/@attributeName`

@@ -1,0 +1,62 @@
+created: 20230331144508176
+modified: 20230331065521582
+tags: python
+title: 爬虫
+type: text/vnd.tiddlywiki
+
+这个任务需要使用Python的爬虫技术和自动化测试技术。
+
+首先，我们需要使用Python的requests库和BeautifulSoup库来获取网页的主要内容。代码如下：
+
+```python
+import requests
+from bs4 import BeautifulSoup
+
+# 发送请求并获取网页内容
+url = "https://www.example.com"
+response = requests.get(url)
+html = response.content
+
+# 解析网页内容，提取主要内容
+soup = BeautifulSoup(html, "html.parser")
+main_content = soup.find("div", {"class": "main-content"}).text
+
+# 将主要内容写入指定路径的TXT文档里
+with open("path/to/file.txt", "w", encoding="utf-8") as f:
+    f.write(main_content)
+```
+
+[[new_soup.find]]
+接下来，我们需要使用Python的selenium库来模拟点击网页的某个按钮，并复制新网页的主要内容到同一文档。代码如下：
+
+```python
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+
+# 打开网页并点击按钮
+driver = webdriver.Chrome()
+driver.get(url)
+button = driver.find_element_by_xpath("//button[@class='btn']")
+button.click()
+
+# 等待新网页加载完成并获取主要内容
+driver.switch_to.window(driver.window_handles[-1])
+#这段代码的意思是切换到当前浏览器窗口的最后一个窗口。在使用Selenium WebDriver进行多窗口处理时，可以使用此代码将驱动器的焦点切换到最新打开的窗口。
+
+new_html = driver.page_source
+new_soup = BeautifulSoup(new_html, "html.parser")
+new_main_content = new_soup.find("div", {"class": "main-content"}).text
+
+# 将新主要内容追加到TXT文档里
+with open("path/to/file.txt", "a", encoding="utf-8") as f:
+    f.write("\n\n")
+    f.write(new_main_content)
+
+# 关闭浏览器
+driver.quit()
+```
+[[找到按钮的class]]
+[[driver.find_element_by_xpath]]
+注意，这段代码中使用了selenium的多窗口切换功能，可以在新窗口中获取新网页的内容。同时，为了将新内容追加到TXT文档里，我们需要以"a"模式打开文件并写入。
+
+BeautifulSoup是一个Python库，用于从HTML和XML文件中提取数据。它提供了一种简单的方式来遍历文档树，并通过搜索、遍历和修改文档树中的元素来提取所需的数据。BeautifulSoup支持多种解析器，包括Python标准库中的HTML解析器，以及第三方库如lxml和html5lib。它通常用于Web爬虫和数据挖掘应用程序中。

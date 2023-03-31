@@ -1,0 +1,19 @@
+created: 20230331144508169
+modified: 20230331144508169
+tags: 爬虫
+title: string删除换行
+type: text/vnd.tiddlywiki
+
+在Python中，可以使用strip()函数来删除字符串中的换行符。例如：
+
+```
+text = "Hello\nWorld\n"
+text = text.strip()
+print(text)
+```
+
+输出结果为：
+
+```
+HelloWorld
+```
